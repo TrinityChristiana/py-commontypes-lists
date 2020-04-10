@@ -1,4 +1,4 @@
-# **************************** Challenge: Dictionary of Words ****************************
+# **************************** Challenge: Random Numbers ****************************
 """
 Author: Trinity Terry
 pyrun: python lists.py
