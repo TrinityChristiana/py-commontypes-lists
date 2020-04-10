@@ -1,3 +1,9 @@
+# **************************** Challenge: Dictionary of Words ****************************
+"""
+Author: Trinity Terry
+pyrun: python dictionaryOfWords.py 
+"""
+
 import random
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Random Numbers
